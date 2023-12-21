@@ -1,7 +1,6 @@
-# langchain
-# langchain_experimental
-# tabulate
-
+langchain
+langchain_experimental
+tabulate
 matplotlib==3.8.0
 numpy==1.26.1
 openai==0.28.1
