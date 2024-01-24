@@ -1,1 +1,1 @@
-apikey = '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'
+apikey = 'insert OPEN AI API key here'
