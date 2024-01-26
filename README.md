@@ -4,11 +4,12 @@
 
 
 ## Table of Contents
-- [Hello](Hello)
+- [Hello](#hello)
 
-
-
-## x
+## Tech Stack
+- Python 
+- LangChain
+- Streamlit (interface for the app)
 
 
 
