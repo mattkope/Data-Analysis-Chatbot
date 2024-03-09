@@ -33,6 +33,3 @@ https://github.com/mattkope/Data-Analysis-Chatbot/assets/133834623/ba9b9140-6958
 
 The further study portion of the chatbot only appears after a second variable has been inputted into the exploratory field. 
 
-## Known Issues
-
-The further study portion of the chatbot onloy appears after a second variable has been inputted into the exploratory field. 
