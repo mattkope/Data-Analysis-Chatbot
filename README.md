@@ -9,9 +9,11 @@ The purpose of the chatbot is to show data cleaning suggestions, correlations, p
 - How to use langchain to import Pandas Agents to answer specific questions about the csv
 - Deploy the model online fast using Streamlit
 
-## Watch the following video 
+## Here is a demo of the project
 
-https://github.com/mattkope/Data-Analysis-Chatbot/assets/133834623/92559db7-2257-4072-af63-1f9c832d24e4
+https://github.com/mattkope/Data-Analysis-Chatbot/assets/133834623/ba9b9140-6958-443f-a17c-242a0d7ffce8
+
+
 
 
 
