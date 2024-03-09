@@ -16,7 +16,7 @@ https://github.com/mattkope/Data-Analysis-Chatbot/assets/133834623/ba9b9140-6958
 
 ## Installation Instructions
 
-1. Clone the git repository using the command: `git clone`
+1. Clone the git repository using the command: `git clone https://github.com/mattkope/Data-Analysis-Chatbot.git`
 2. Get a OpenAI API Key from [OpenAI](https://platform.openai.com/api-keys) and then paste it into the apikey.py file.
 3. Open the folder in VS code and create a [Python environment](https://code.visualstudio.com/docs/python/environments). The Python version used was 3.11. Then open up the command prompt in VS code and type the following: `pip install -r requirements.txt`.
 4. Once everything has been installed type the following in the command prompt in VS code to run the Streamlit app: `streamlit run app_EDA.py`
