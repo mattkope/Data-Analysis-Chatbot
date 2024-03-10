@@ -2,7 +2,7 @@
 
 ## A Streamlit Chatbot that does Exploratory Analysis on csv Files
 
-The purpose of the chatbot is to show data cleaning suggestions, correlations, potentional outliers, variable creation suggestions, and skewness in the data of a given csv file. The following project is made up of the following main components: 
+The purpose of the chatbot is to show data cleaning suggestions, correlations, potential outliers, variable creation suggestions, and skewness in the data of a given csv file. The following project is made up of the following main components: 
 
 - Python to code the chatbot
 - OpenAI's API to access large language models
